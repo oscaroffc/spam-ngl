@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 Jalankan script:
 ```
-python3 p.py
+python3 spam.py
 ```
 1. Masukkan password:****
 2. Masukkan username target NGL
